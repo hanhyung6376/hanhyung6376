@@ -11,5 +11,5 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonAWS&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-181717?style=flat-square&logo=Github&logoColor=white)
 
 ## Me
-[![Tistory](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://turret1234.tistory.com/) [![Velog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@turret1234) [![Naver](https://img.shields.io/badge/Naver-03C752?style=flat-square&logo=Gmail&logoColor=white)](mailto:naver.com) [![Github](https://img.shields.io/badge/GIT-181717?style=flat-square&logo=Github&logoColor=white](https://github.com/hanhyung6376)
+[![Tistory](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://turret1234.tistory.com/) [![Velog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@turret1234) [![Naver](https://img.shields.io/badge/Naver-03C752?style=flat-square&logo=Gmail&logoColor=white)](mailto:naver.com) [![Github](https://img.shields.io/badge/GIT-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/hanhyung6376)
 </div>
